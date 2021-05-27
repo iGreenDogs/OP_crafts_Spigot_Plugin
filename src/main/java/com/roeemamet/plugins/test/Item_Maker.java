@@ -21,6 +21,7 @@ public class Item_Maker {
         ArrayList<String> lore = new ArrayList<String>();
         lore.add(desc);
         //hide vanilla tooltip
+
         im.addItemFlags(ItemFlag.HIDE_ENCHANTS);
         im.addItemFlags(ItemFlag.HIDE_ATTRIBUTES);
         //make custom item flags
