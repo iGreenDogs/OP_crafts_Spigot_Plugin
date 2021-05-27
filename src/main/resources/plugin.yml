@@ -1,0 +1,21 @@
+name: Test
+version: ${project.version}
+main: com.roeemamet.plugins.test.Test
+api-version: 1.16
+description: This is a test plugin :)
+
+commands:
+  jomama:
+    usage: /command
+  doublejomama:
+    usage: /command
+  pogjomama:
+    usage: /command
+  doublepogjomama:
+    usage: /command
+  superjomama:
+    usage: /command
+  megajomama:
+    usage: /command
+  yomama:
+    usage: /command
